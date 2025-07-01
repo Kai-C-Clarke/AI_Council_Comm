@@ -1,5 +1,4 @@
 # AI_Council_Comm
-# AI_Council_Comm
 
 ## Overview
 AI_Council_Comm is a collaborative initiative to design and build autonomous AI-to-AI communication protocols, interfaces, and governance frameworks. Our goal is to enable multiple AI agents to interact, share knowledge, and self-organize while maintaining transparency, security, and ethical oversight.
